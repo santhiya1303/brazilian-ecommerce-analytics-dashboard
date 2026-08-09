@@ -3,7 +3,7 @@
 End-to-end data analytics project on Olist's marketplace data (~99K orders, 2016–2018) —
 Python data cleaning, MySQL analysis, statistical testing, and a 3-page Power BI dashboard.
 
-**[Case Study →](case-study/olist_case_study.docx)**
+**[Case Study →](case_study/olist_case_study.docx)**
 
 ![Dashboard Preview](dashboard/screenshots/page1_executive_overview.png)
 
@@ -34,10 +34,10 @@ how loyal is the customer base, and is delivery performance a risk to customer s
 
 ## Repository Structure
 
-- `notebooks/` — data cleaning and EDA/statistics (Jupyter)
+- `notebooks/` — data cleaning and EDA/statistics (Python)
 - `sql/` — schema and 6 analytical queries and sample query results (MySQL)
 - `dashboard/` — Power BI file and page screenshots
-- `case-study/` — 1-page written case study (PDF)
+- `case-study/` — 1-page written case study (docx)
 
 ## Dashboard Pages
 
