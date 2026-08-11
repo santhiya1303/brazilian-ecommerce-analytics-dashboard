@@ -56,4 +56,4 @@ how loyal is the customer base, and is delivery performance a risk to customer s
 
 ## Author
 
-**Santhiya T** — Data Analyst | [LinkedIn](www.linkedin.com/in/santhiya-datanalyst) 
+**Santhiya T** — Data Analyst | [LinkedIn](www.linkedin.com/in/santhiya-datanalyst) | [Portfolio](https://santhiya1303.github.io)
